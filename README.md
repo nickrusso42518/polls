@@ -6,3 +6,6 @@ not comprehensive data analysis with margins of error, pollster ratings, etc.
 The `core.py` file contains the general logic for collecting and printing RCP
 averages. Individual scripts exist for various elections with self-evident
 names. The `all.sh` Bash script simply runs each script for convenience.
+
+Be sure to `pip install -r requirements.txt` before trying to run any
+of the scripts.
