@@ -12,6 +12,7 @@ elections = [
     ("US", "/president/us/general_election_trump_vs_biden-6247.html"),
     ("AZ", "/president/az/arizona_trump_vs_biden-6807.html"),
     ("FL", "/president/fl/florida_trump_vs_biden-6841.html"),
+    ("IA", "/president/ia/iowa_trump_vs_biden-6787.html"),
     ("MI", "/president/mi/michigan_trump_vs_biden-6761.html"),
     ("MN", "/president/mn/minnesota_trump_vs_biden-6966.html"),
     ("NC", "/president/nc/north_carolina_trump_vs_biden-6744.html"),

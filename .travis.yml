@@ -1,0 +1,18 @@
+---
+language: "python"
+python:
+  - "3.7"
+
+# Install python packages for ansible and linters.
+install:
+  - "pip install -r requirements.txt"
+
+# Perform pre-checks
+before_script:
+  - "pylint *.py"
+  - "black -l 82 --check *.py"
+
+# Perform runbook testing with mock ASA inputs.
+script:
+  - "./all.sh"
+...

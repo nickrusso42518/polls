@@ -6,5 +6,5 @@ python president.py
 echo -e "\n*** US SENATE 2020 ***"
 python senate.py
 
-echo -e "\n*** MISC POLLS ***"
-python approval.py
+echo -e "\n*** OTHER POLLS ***"
+python other.py
