@@ -2,7 +2,7 @@ import boto3
 import polls
 
 def lambda_handler(event, context):
-    print("hi")
+    print("S3 upload started")
 
     s3 = boto3.client("s3")
     html_text = polls.get_rcp_averages("elections.json")
