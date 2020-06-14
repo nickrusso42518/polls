@@ -11,6 +11,7 @@ def lambda_handler(event, context):
     s3.put_object(
         Bucket="polls.njrusmc.net",
         Key="index.html",
+        ContentType="text/html",
         Body=upload_bytes
     )
 
