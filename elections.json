@@ -1,30 +1,4 @@
 {
-  "US Senate 2020": {
-    "AZ": {
-      "enable": true,
-      "url": "2020/senate/az/arizona_senate_mcsally_vs_kelly-6801.html"
-    },
-    "CO": {
-      "enable": true,
-      "url": "2020/senate/co/colorado_senate_gardner_vs_hickenlooper-6945.html"
-    },
-    "ME": {
-      "enable": true,
-      "url": "2020/senate/me/maine_senate_collins_vs_gideon-6928.html"
-    },
-    "MI": {
-      "enable": true,
-      "url": "2020/senate/mi/michigan_senate_james_vs_peters-6964.html"
-    },
-    "MT": {
-      "enable": false,
-      "url": "2020/senate/mt/montana_senate_daines_vs_bullock-7063.html"
-    },
-    "NC": {
-      "enable": true,
-      "url": "2020/senate/nc/north_carolina_senate_tillis_vs_cunningham-6908.html"
-    }
-  },
   "US President 2020": {
     "US": {
       "enable": true,
@@ -85,6 +59,32 @@
     "WI": {
       "enable": true,
       "url": "2020/president/wi/wisconsin_trump_vs_biden-6849.html"
+    }
+  },
+  "US Senate 2020": {
+    "AZ": {
+      "enable": true,
+      "url": "2020/senate/az/arizona_senate_mcsally_vs_kelly-6801.html"
+    },
+    "CO": {
+      "enable": true,
+      "url": "2020/senate/co/colorado_senate_gardner_vs_hickenlooper-6945.html"
+    },
+    "ME": {
+      "enable": true,
+      "url": "2020/senate/me/maine_senate_collins_vs_gideon-6928.html"
+    },
+    "MI": {
+      "enable": true,
+      "url": "2020/senate/mi/michigan_senate_james_vs_peters-6964.html"
+    },
+    "MT": {
+      "enable": false,
+      "url": "2020/senate/mt/montana_senate_daines_vs_bullock-7063.html"
+    },
+    "NC": {
+      "enable": true,
+      "url": "2020/senate/nc/north_carolina_senate_tillis_vs_cunningham-6908.html"
     }
   },
   "Other Polls": {

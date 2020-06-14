@@ -7,9 +7,9 @@ python:
 install:
   - "pip install -r requirements.txt"
 
-# Perform pre-checks of source code
+# Perform pre-checks of source code (don't lint the lambda function)
 before_script:
-  - "pylint *.py"
+  - "pylint polls.py"
   - "black -l 82 --check *.py"
 
 # Perform poll collection testing

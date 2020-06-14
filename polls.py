@@ -12,7 +12,7 @@ from jinja2 import Environment, FileSystemLoader
 
 # Used for basic CSS coloring based on US political party
 COLOR_MAP = {
-    "(D)": "blue",  # Democratic
+    "(D)": "blue",  # Democrat
     "(R)": "red",  # Republican
     "(I)": "darkviolet",  # Independent
     "(L)": "gold",  # Libertarian
@@ -51,6 +51,7 @@ def get_rcp_averages(filename):
             # then the RCP average doesn't exist, so don't display anything
             if not rcp_avg["Poll"].startswith("RCP"):
                 race["text"] = f"{place}: Did not find RCP average"
+                race["color"] = "black"
                 continue
 
             # The RCP average does exist; find out the candidate's party
@@ -65,7 +66,7 @@ def get_rcp_averages(filename):
     # print(json.dumps(elections, indent=2))
 
     # Setup the jinja2 templating environment and render the template
-    j2_env = Environment(loader=FileSystemLoader("."), autoescape=True)
+    j2_env = Environment(loader=FileSystemLoader("."), trim_blocks=True)
     template = j2_env.get_template("index.j2")
     html_text = template.render(data=elections)
 
