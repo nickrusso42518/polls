@@ -14,23 +14,15 @@
     No adjustments, analysis, or commentary. Updated daily. Learn more
     about me at <a href="http://njrusmc.net">my main website.</a>
   </p>
-
 {% for name, election in data.items() %}
   <h3>Election type: {{ name }}</h3>
   <ul>
 {% for race in election.values() %}
 {% if race["enable"] %}
-    <li>{{ race["text"] }}</li>
+    <li style="color:{{ race['color'] }};">{{ race["text"] }}</li>
 {% endif %}
 {% endfor %}
   </ul>
 {% endfor %}
-
-  <h2>Donate</h2>
-  <p>
-    I pay for this out of my own pocket. Please consider
-    <a href="http://njrusmc.net">making a donation!</a>
-  </p>
-
 </body>
 </html>

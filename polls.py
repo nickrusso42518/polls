@@ -10,6 +10,16 @@ import json
 from rcp import get_poll_data
 from jinja2 import Environment, FileSystemLoader
 
+# Used for basic CSS coloring based on US political party
+COLOR_MAP = {
+    "(D)": "blue",  # Democratic
+    "(R)": "red",  # Republican
+    "(I)": "darkviolet",  # Independent
+    "(L)": "gold",  # Libertarian
+    "(G)": "forestgreen",  # Green
+    "(?)": "black",  # Unspecified/not applicable
+}
+
 
 def get_rcp_averages(filename):
     """
@@ -49,6 +59,7 @@ def get_rcp_averages(filename):
             # Update the race dictionary with the text to display
             spread, date = rcp_avg["Spread"], rcp_avg["Date"].replace(" ", "")
             race["text"] = f"{place}: {party} {spread} ({date})"
+            race["color"] = COLOR_MAP[party]
 
     # Print the final elections data for a quick visual check
     # print(json.dumps(elections, indent=2))
@@ -57,10 +68,6 @@ def get_rcp_averages(filename):
     j2_env = Environment(loader=FileSystemLoader("."), autoescape=True)
     template = j2_env.get_template("index.j2")
     html_text = template.render(data=elections)
-
-    # Save the HTML text to a file for transferral
-    with open("index.html", "w") as handle:
-        handle.write(html_text)
 
     # Return the HTML text
     return html_text
@@ -79,7 +86,7 @@ def get_party(rcp_avg):
     # If found, return the party after the name
     for k in rcp_avg.keys():
         if k.startswith(winner):
-            return k.split(" ")[1]
+            return k.split(" ")[1].strip()
 
     # Party not found; use a static string instead
     return "(?)"

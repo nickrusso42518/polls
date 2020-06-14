@@ -1,7 +1,13 @@
 import boto3
 import polls
 
+
 def lambda_handler(event, context):
+    """
+    AWS Lambda function that collects the RCP averages and writes
+    the HTML text to the index.html file at http://polls.njrusmc.net
+    for easy viewing.
+    """
     print("S3 upload started")
 
     s3 = boto3.client("s3")
@@ -12,7 +18,7 @@ def lambda_handler(event, context):
         Bucket="polls.njrusmc.net",
         Key="index.html",
         ContentType="text/html",
-        Body=upload_bytes
+        Body=upload_bytes,
     )
 
     print(html_text)
