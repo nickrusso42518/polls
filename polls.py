@@ -50,13 +50,20 @@ def get_rcp_averages(filename):
             spread, date = rcp_avg["Spread"], rcp_avg["Date"].replace(" ", "")
             race["text"] = f"{place}: {party} {spread} ({date})"
 
+    # Print the final elections data for a quick visual check
+    # print(json.dumps(elections, indent=2))
+
     # Setup the jinja2 templating environment and render the template
     j2_env = Environment(loader=FileSystemLoader("."), autoescape=True)
-    template = j2_env.get_template("index.j2.html")
+    template = j2_env.get_template("index.j2")
     html_text = template.render(data=elections)
 
-    # Print the HTML text to stdout for a quick visual check
-    print(html_text)
+    # Save the HTML text to a file for transferral
+    with open("index.html", "w") as handle:
+        handle.write(html_text)
+
+    # Return the HTML text
+    return html_text
 
 
 def get_party(rcp_avg):
@@ -79,4 +86,4 @@ def get_party(rcp_avg):
 
 
 if __name__ == "__main__":
-    get_rcp_averages("elections.json")
+    print(get_rcp_averages("elections.json"))
