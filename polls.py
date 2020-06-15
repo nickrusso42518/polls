@@ -7,6 +7,7 @@ from a collection of arbitrary elections.
 """
 
 import json
+from datetime import datetime
 from rcp import get_poll_data
 from jinja2 import Environment, FileSystemLoader
 
@@ -65,10 +66,14 @@ def get_rcp_averages(filename):
     # Print the final elections data for a quick visual check
     # print(json.dumps(elections, indent=2))
 
-    # Setup the jinja2 templating environment and render the template
+    # Setup the jinja2 templating environment and instantiate the template
     j2_env = Environment(loader=FileSystemLoader("."), trim_blocks=True)
     template = j2_env.get_template("index.j2")
-    html_text = template.render(data=elections)
+
+    # Build a pretty timestamp and render the template
+    updated = datetime.now().strftime("%H:%M UTC on %d %B %Y")
+    j2_data = {"elections": elections, "updated": updated}
+    html_text = template.render(data=j2_data)
 
     # Return the HTML text
     return html_text

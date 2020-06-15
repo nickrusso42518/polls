@@ -9,19 +9,21 @@
   <p>
     This minimalist project displays recent poll averages from
     <a href="https://www.realclearpolitics.com">RCP</a> for key races.
-    Updated daily.
   </p>
   <p>
     No adjustments, analysis, or commentary. Don't believe me?
     <a href="https://github.com/nickrusso42518/polls">See the code.</a>
   </p>
+  <!-- TODO add a link to the youtube tutorial at some point -->
   <p>
-    Learn more about Nick Russo at
-    <a href="http://njrusmc.net">http://njrusmc.net</a>
-    where I have tons of other cool stuff!
+    Learn more about Nick Russo (me) at
+   <a href="http://njrusmc.net">http://njrusmc.net</a>. Enjoy!
   </p>
-{% for name, election in data.items() %}
-  <h3>Election type: {{ name }}</h3>
+  <p>
+    Last updated: {{ data["updated"] }}
+  </p>
+{% for name, election in data["elections"].items() %}
+  <h3>{{ name }}</h3>
   <ul>
 {% for race in election.values() %}
 {% if race["enable"] %}
