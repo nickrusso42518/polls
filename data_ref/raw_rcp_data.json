@@ -1,0 +1,1276 @@
+[
+  {
+    "poll": "https://www.realclearpolitics.com/epolls/2020/president/us/general_election_trump_vs_biden-6247.html",
+    "data": [
+      {
+        "Poll": "RCP\u00a0Average",
+        "Date": "5/28 - 6/16",
+        "Sample": "--",
+        "MoE": "--",
+        "Biden (D)": "50.1",
+        "Trump (R)": "41.3",
+        "Spread": "Biden +8.8"
+      },
+      {
+        "Poll": "FOX NewsFOX News",
+        "Date": "6/13 - 6/16",
+        "Sample": "1343 RV",
+        "MoE": "2.5",
+        "Biden (D)": "50",
+        "Trump (R)": "38",
+        "Spread": "Biden +12"
+      },
+      {
+        "Poll": "QuinnipiacQuinnipiac",
+        "Date": "6/11 - 6/15",
+        "Sample": "1332 RV",
+        "MoE": "2.7",
+        "Biden (D)": "49",
+        "Trump (R)": "41",
+        "Spread": "Biden +8"
+      },
+      {
+        "Poll": "Economist/YouGovYouGov",
+        "Date": "6/14 - 6/16",
+        "Sample": "1160 RV",
+        "MoE": "3.5",
+        "Biden (D)": "50",
+        "Trump (R)": "41",
+        "Spread": "Biden +9"
+      },
+      {
+        "Poll": "CNBCCNBC",
+        "Date": "6/10 - 6/12",
+        "Sample": "1250 LV",
+        "MoE": "2.8",
+        "Biden (D)": "51",
+        "Trump (R)": "41",
+        "Spread": "Biden +10"
+      },
+      {
+        "Poll": "Economist/YouGovYouGov",
+        "Date": "6/7 - 6/9",
+        "Sample": "1241 RV",
+        "MoE": "3.4",
+        "Biden (D)": "49",
+        "Trump (R)": "41",
+        "Spread": "Biden +8"
+      },
+      {
+        "Poll": "CNNCNN",
+        "Date": "6/2 - 6/5",
+        "Sample": "1125 RV",
+        "MoE": "3.6",
+        "Biden (D)": "55",
+        "Trump (R)": "41",
+        "Spread": "Biden +14"
+      },
+      {
+        "Poll": "NPR/PBS/MaristNPR/PBS",
+        "Date": "6/2 - 6/3",
+        "Sample": "958 RV",
+        "MoE": "4.0",
+        "Biden (D)": "50",
+        "Trump (R)": "43",
+        "Spread": "Biden +7"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "6/2 - 6/3",
+        "Sample": "1431 RV",
+        "MoE": "2.5",
+        "Biden (D)": "53",
+        "Trump (R)": "47",
+        "Spread": "Biden +6"
+      },
+      {
+        "Poll": "The Hill/HarrisXThe Hill",
+        "Date": "6/1 - 6/4",
+        "Sample": "2827 RV",
+        "MoE": "1.8",
+        "Biden (D)": "47",
+        "Trump (R)": "37",
+        "Spread": "Biden +10"
+      },
+      {
+        "Poll": "IBD/TIPPIBD/TIPP",
+        "Date": "5/31 - 6/3",
+        "Sample": "964 RV",
+        "MoE": "2.9",
+        "Biden (D)": "45",
+        "Trump (R)": "42",
+        "Spread": "Biden +3"
+      },
+      {
+        "Poll": "NBC News/Wall St. JrnlNBC/WSJ",
+        "Date": "5/28 - 6/2",
+        "Sample": "1000 RV",
+        "MoE": "3.1",
+        "Biden (D)": "49",
+        "Trump (R)": "42",
+        "Spread": "Biden +7"
+      },
+      {
+        "Poll": "Economist/YouGovYouGov",
+        "Date": "5/31 - 6/2",
+        "Sample": "1244 RV",
+        "MoE": "3.2",
+        "Biden (D)": "47",
+        "Trump (R)": "40",
+        "Spread": "Biden +7"
+      },
+      {
+        "Poll": "CNBCCNBC",
+        "Date": "5/29 - 5/31",
+        "Sample": "1457 LV",
+        "MoE": "2.6",
+        "Biden (D)": "48",
+        "Trump (R)": "41",
+        "Spread": "Biden +7"
+      },
+      {
+        "Poll": "MonmouthMonmouth",
+        "Date": "5/28 - 6/1",
+        "Sample": "742 RV",
+        "MoE": "3.6",
+        "Biden (D)": "52",
+        "Trump (R)": "41",
+        "Spread": "Biden +11"
+      },
+      {
+        "Poll": "CBS News/YouGovCBS News",
+        "Date": "5/29 - 6/1",
+        "Sample": "1486 LV",
+        "MoE": "2.6",
+        "Biden (D)": "47",
+        "Trump (R)": "43",
+        "Spread": "Biden +4"
+      },
+      {
+        "Poll": "ABC News/Wash PostABC/WP",
+        "Date": "5/25 - 5/28",
+        "Sample": "835 RV",
+        "MoE": "4.0",
+        "Biden (D)": "53",
+        "Trump (R)": "43",
+        "Spread": "Biden +10"
+      },
+      {
+        "Poll": "Economist/YouGovYouGov",
+        "Date": "5/23 - 5/26",
+        "Sample": "1157 RV",
+        "MoE": "3.4",
+        "Biden (D)": "45",
+        "Trump (R)": "42",
+        "Spread": "Biden +3"
+      },
+      {
+        "Poll": "FOX NewsFOX News",
+        "Date": "5/17 - 5/20",
+        "Sample": "1207 RV",
+        "MoE": "3.0",
+        "Biden (D)": "48",
+        "Trump (R)": "40",
+        "Spread": "Biden +8"
+      },
+      {
+        "Poll": "Rasmussen ReportsRasmussen",
+        "Date": "5/18 - 5/19",
+        "Sample": "1000 LV",
+        "MoE": "3.0",
+        "Biden (D)": "48",
+        "Trump (R)": "43",
+        "Spread": "Biden +5"
+      },
+      {
+        "Poll": "Economist/YouGovYouGov",
+        "Date": "5/17 - 5/19",
+        "Sample": "1235 RV",
+        "MoE": "3.2",
+        "Biden (D)": "47",
+        "Trump (R)": "42",
+        "Spread": "Biden +5"
+      },
+      {
+        "Poll": "CNBCCNBC",
+        "Date": "5/15 - 5/17",
+        "Sample": "1424 LV",
+        "MoE": "2.6",
+        "Biden (D)": "48",
+        "Trump (R)": "45",
+        "Spread": "Biden +3"
+      },
+      {
+        "Poll": "QuinnipiacQuinnipiac",
+        "Date": "5/14 - 5/18",
+        "Sample": "1323 RV",
+        "MoE": "2.7",
+        "Biden (D)": "50",
+        "Trump (R)": "39",
+        "Spread": "Biden +11"
+      },
+      {
+        "Poll": "The Hill/HarrisXThe Hill",
+        "Date": "5/13 - 5/14",
+        "Sample": "950 RV",
+        "MoE": "3.2",
+        "Biden (D)": "42",
+        "Trump (R)": "41",
+        "Spread": "Biden +1"
+      },
+      {
+        "Poll": "Harvard-HarrisHarris",
+        "Date": "5/13 - 5/14",
+        "Sample": "1854 RV",
+        "MoE": "2.0",
+        "Biden (D)": "53",
+        "Trump (R)": "47",
+        "Spread": "Biden +6"
+      },
+      {
+        "Poll": "Economist/YouGovYouGov",
+        "Date": "5/10 - 5/12",
+        "Sample": "1175 RV",
+        "MoE": "3.4",
+        "Biden (D)": "47",
+        "Trump (R)": "43",
+        "Spread": "Biden +4"
+      },
+      {
+        "Poll": "CNNCNN",
+        "Date": "5/7 - 5/10",
+        "Sample": "1001 RV",
+        "MoE": "3.7",
+        "Biden (D)": "51",
+        "Trump (R)": "46",
+        "Spread": "Biden +5"
+      },
+      {
+        "Poll": "Economist/YouGovYouGov",
+        "Date": "5/3 - 5/5",
+        "Sample": "1209 RV",
+        "MoE": "3.3",
+        "Biden (D)": "46",
+        "Trump (R)": "42",
+        "Spread": "Biden +4"
+      },
+      {
+        "Poll": "CNBCCNBC",
+        "Date": "5/1 - 5/3",
+        "Sample": "1489 LV",
+        "MoE": "2.5",
+        "Biden (D)": "47",
+        "Trump (R)": "44",
+        "Spread": "Biden +3"
+      },
+      {
+        "Poll": "MonmouthMonmouth",
+        "Date": "4/30 - 5/4",
+        "Sample": "739 RV",
+        "MoE": "3.6",
+        "Biden (D)": "50",
+        "Trump (R)": "41",
+        "Spread": "Biden +9"
+      },
+      {
+        "Poll": "CBS News/YouGovCBS News",
+        "Date": "4/28 - 5/1",
+        "Sample": "1671 LV",
+        "MoE": "2.5",
+        "Biden (D)": "49",
+        "Trump (R)": "43",
+        "Spread": "Biden +6"
+      },
+      {
+        "Poll": "IBD/TIPPIBD/TIPP",
+        "Date": "4/26 - 4/29",
+        "Sample": "948 RV",
+        "MoE": "3.3",
+        "Biden (D)": "43",
+        "Trump (R)": "43",
+        "Spread": "Tie"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "4/26 - 4/28",
+        "Sample": "1200 RV",
+        "MoE": "2.8",
+        "Biden (D)": "48",
+        "Trump (R)": "42",
+        "Spread": "Biden +6"
+      },
+      {
+        "Poll": "Economist/YouGovYouGov",
+        "Date": "4/26 - 4/28",
+        "Sample": "1222 RV",
+        "MoE": "3.2",
+        "Biden (D)": "47",
+        "Trump (R)": "41",
+        "Spread": "Biden +6"
+      },
+      {
+        "Poll": "USA Today/SuffolkUSA Today",
+        "Date": "4/21 - 4/25",
+        "Sample": "1000 RV",
+        "MoE": "3.0",
+        "Biden (D)": "50",
+        "Trump (R)": "40",
+        "Spread": "Biden +10"
+      },
+      {
+        "Poll": "Economist/YouGovYouGov",
+        "Date": "4/19 - 4/21",
+        "Sample": "1144 RV",
+        "MoE": "3.4",
+        "Biden (D)": "48",
+        "Trump (R)": "42",
+        "Spread": "Biden +6"
+      },
+      {
+        "Poll": "The Hill/HarrisXThe Hill",
+        "Date": "4/19 - 4/20",
+        "Sample": "958 RV",
+        "MoE": "3.2",
+        "Biden (D)": "42",
+        "Trump (R)": "40",
+        "Spread": "Biden +2"
+      },
+      {
+        "Poll": "NBC News/Wall St. JrnlNBC/WSJ",
+        "Date": "4/13 - 4/15",
+        "Sample": "900 RV",
+        "MoE": "3.3",
+        "Biden (D)": "49",
+        "Trump (R)": "42",
+        "Spread": "Biden +7"
+      },
+      {
+        "Poll": "Harvard-HarrisHarris",
+        "Date": "4/14 - 4/16",
+        "Sample": "LV",
+        "MoE": "--",
+        "Biden (D)": "53",
+        "Trump (R)": "47",
+        "Spread": "Biden +6"
+      },
+      {
+        "Poll": "Economist/YouGovYouGov",
+        "Date": "4/12 - 4/14",
+        "Sample": "1166 RV",
+        "MoE": "3.4",
+        "Biden (D)": "48",
+        "Trump (R)": "43",
+        "Spread": "Biden +5"
+      },
+      {
+        "Poll": "MonmouthMonmouth",
+        "Date": "4/3 - 4/7",
+        "Sample": "743 RV",
+        "MoE": "3.6",
+        "Biden (D)": "48",
+        "Trump (R)": "44",
+        "Spread": "Biden +4"
+      },
+      {
+        "Poll": "FOX NewsFOX News",
+        "Date": "4/4 - 4/7",
+        "Sample": "1107 RV",
+        "MoE": "3.0",
+        "Biden (D)": "42",
+        "Trump (R)": "42",
+        "Spread": "Tie"
+      },
+      {
+        "Poll": "Economist/YouGovYouGov",
+        "Date": "4/5 - 4/7",
+        "Sample": "1147 RV",
+        "MoE": "3.3",
+        "Biden (D)": "48",
+        "Trump (R)": "42",
+        "Spread": "Biden +6"
+      },
+      {
+        "Poll": "CNBCCNBC",
+        "Date": "4/3 - 4/6",
+        "Sample": "604 RV",
+        "MoE": "4.0",
+        "Biden (D)": "44",
+        "Trump (R)": "39",
+        "Spread": "Biden +5"
+      },
+      {
+        "Poll": "CNNCNN",
+        "Date": "4/3 - 4/6",
+        "Sample": "875 RV",
+        "MoE": "3.9",
+        "Biden (D)": "53",
+        "Trump (R)": "42",
+        "Spread": "Biden +11"
+      },
+      {
+        "Poll": "QuinnipiacQuinnipiac",
+        "Date": "4/2 - 4/6",
+        "Sample": "2077 RV",
+        "MoE": "2.2",
+        "Biden (D)": "49",
+        "Trump (R)": "41",
+        "Spread": "Biden +8"
+      },
+      {
+        "Poll": "IBD/TIPPIBD/TIPP",
+        "Date": "3/29 - 4/1",
+        "Sample": "980 RV",
+        "MoE": "3.2",
+        "Biden (D)": "47",
+        "Trump (R)": "41",
+        "Spread": "Biden +6"
+      },
+      {
+        "Poll": "Economist/YouGovYouGov",
+        "Date": "3/29 - 3/31",
+        "Sample": "1194 RV",
+        "MoE": "3.2",
+        "Biden (D)": "46",
+        "Trump (R)": "42",
+        "Spread": "Biden +4"
+      },
+      {
+        "Poll": "Grinnell/SelzerSelzer",
+        "Date": "3/27 - 3/30",
+        "Sample": "777 LV",
+        "MoE": "3.5",
+        "Biden (D)": "47",
+        "Trump (R)": "43",
+        "Spread": "Biden +4"
+      },
+      {
+        "Poll": "Harvard-HarrisHarris",
+        "Date": "3/24 - 3/26",
+        "Sample": "2410 RV",
+        "MoE": "2.0",
+        "Biden (D)": "55",
+        "Trump (R)": "45",
+        "Spread": "Biden +10"
+      },
+      {
+        "Poll": "ABC News/Wash PostABC/WP",
+        "Date": "3/22 - 3/25",
+        "Sample": "845 RV",
+        "MoE": "3.5",
+        "Biden (D)": "49",
+        "Trump (R)": "47",
+        "Spread": "Biden +2"
+      },
+      {
+        "Poll": "Economist/YouGovYouGov",
+        "Date": "3/22 - 3/24",
+        "Sample": "1170 RV",
+        "MoE": "3.4",
+        "Biden (D)": "46",
+        "Trump (R)": "42",
+        "Spread": "Biden +4"
+      },
+      {
+        "Poll": "FOX NewsFOX News",
+        "Date": "3/21 - 3/24",
+        "Sample": "1011 RV",
+        "MoE": "3.0",
+        "Biden (D)": "49",
+        "Trump (R)": "40",
+        "Spread": "Biden +9"
+      },
+      {
+        "Poll": "MonmouthMonmouth",
+        "Date": "3/18 - 3/22",
+        "Sample": "754 RV",
+        "MoE": "3.6",
+        "Biden (D)": "48",
+        "Trump (R)": "45",
+        "Spread": "Biden +3"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "3/18 - 3/19",
+        "Sample": "1100 RV",
+        "MoE": "2.9",
+        "Biden (D)": "53",
+        "Trump (R)": "47",
+        "Spread": "Biden +6"
+      },
+      {
+        "Poll": "Economist/YouGovYouGov",
+        "Date": "3/15 - 3/17",
+        "Sample": "1129 RV",
+        "MoE": "3.5",
+        "Biden (D)": "48",
+        "Trump (R)": "41",
+        "Spread": "Biden +7"
+      },
+      {
+        "Poll": "NBC News/Wall St. JrnlNBC/WSJ",
+        "Date": "3/11 - 3/13",
+        "Sample": "900 RV",
+        "MoE": "3.3",
+        "Biden (D)": "52",
+        "Trump (R)": "43",
+        "Spread": "Biden +9"
+      },
+      {
+        "Poll": "Economist/YouGovYouGov",
+        "Date": "3/8 - 3/10",
+        "Sample": "1191 RV",
+        "MoE": "2.9",
+        "Biden (D)": "47",
+        "Trump (R)": "43",
+        "Spread": "Biden +4"
+      },
+      {
+        "Poll": "CNNCNN",
+        "Date": "3/4 - 3/7",
+        "Sample": "1084 RV",
+        "MoE": "3.5",
+        "Biden (D)": "53",
+        "Trump (R)": "43",
+        "Spread": "Biden +10"
+      },
+      {
+        "Poll": "QuinnipiacQuinnipiac",
+        "Date": "3/5 - 3/8",
+        "Sample": "1261 RV",
+        "MoE": "2.8",
+        "Biden (D)": "52",
+        "Trump (R)": "41",
+        "Spread": "Biden +11"
+      },
+      {
+        "Poll": "Harvard-HarrisHarris",
+        "Date": "2/26 - 2/28",
+        "Sample": "2592 RV",
+        "MoE": "--",
+        "Biden (D)": "55",
+        "Trump (R)": "45",
+        "Spread": "Biden +10"
+      },
+      {
+        "Poll": "IBD/TIPPIBD/TIPP",
+        "Date": "2/20 - 2/29",
+        "Sample": "839 RV",
+        "MoE": "3.5",
+        "Biden (D)": "49",
+        "Trump (R)": "46",
+        "Spread": "Biden +3"
+      },
+      {
+        "Poll": "FOX NewsFOX News",
+        "Date": "2/23 - 2/26",
+        "Sample": "1000 RV",
+        "MoE": "3.0",
+        "Biden (D)": "49",
+        "Trump (R)": "41",
+        "Spread": "Biden +8"
+      },
+      {
+        "Poll": "CBS News/YouGovCBS News",
+        "Date": "2/20 - 2/22",
+        "Sample": "10000 RV",
+        "MoE": "1.2",
+        "Biden (D)": "47",
+        "Trump (R)": "45",
+        "Spread": "Biden +2"
+      },
+      {
+        "Poll": "ABC News/Wash PostABC/WP",
+        "Date": "2/14 - 2/17",
+        "Sample": "913 RV",
+        "MoE": "4.0",
+        "Biden (D)": "52",
+        "Trump (R)": "45",
+        "Spread": "Biden +7"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "2/16 - 2/18",
+        "Sample": "1250 RV",
+        "MoE": "2.7",
+        "Biden (D)": "48",
+        "Trump (R)": "52",
+        "Spread": "Trump +4"
+      },
+      {
+        "Poll": "NBC News/Wall St. JrnlNBC/WSJ",
+        "Date": "2/14 - 2/17",
+        "Sample": "900 RV",
+        "MoE": "3.3",
+        "Biden (D)": "52",
+        "Trump (R)": "44",
+        "Spread": "Biden +8"
+      },
+      {
+        "Poll": "NPR/PBS/MaristNPR/PBS",
+        "Date": "2/13 - 2/16",
+        "Sample": "1164 RV",
+        "MoE": "3.7",
+        "Biden (D)": "50",
+        "Trump (R)": "44",
+        "Spread": "Biden +6"
+      },
+      {
+        "Poll": "QuinnipiacQuinnipiac",
+        "Date": "2/5 - 2/9",
+        "Sample": "1519 RV",
+        "MoE": "2.5",
+        "Biden (D)": "50",
+        "Trump (R)": "43",
+        "Spread": "Biden +7"
+      },
+      {
+        "Poll": "NBC News/Wall St. JrnlNBC/WSJ",
+        "Date": "1/26 - 1/29",
+        "Sample": "1000 RV",
+        "MoE": "3.1",
+        "Biden (D)": "50",
+        "Trump (R)": "44",
+        "Spread": "Biden +6"
+      },
+      {
+        "Poll": "IBD/TIPPIBD/TIPP",
+        "Date": "1/23 - 1/30",
+        "Sample": "856 RV",
+        "MoE": "3.3",
+        "Biden (D)": "49",
+        "Trump (R)": "48",
+        "Spread": "Biden +1"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "1/21 - 1/23",
+        "Sample": "1128 RV",
+        "MoE": "2.8",
+        "Biden (D)": "50",
+        "Trump (R)": "50",
+        "Spread": "Tie"
+      },
+      {
+        "Poll": "ABC News/Wash PostABC/WP",
+        "Date": "1/20 - 1/23",
+        "Sample": "880 RV",
+        "MoE": "4.0",
+        "Biden (D)": "50",
+        "Trump (R)": "46",
+        "Spread": "Biden +4"
+      },
+      {
+        "Poll": "LA Times/USCLA Times",
+        "Date": "1/15 - 1/28",
+        "Sample": "4869 RV",
+        "MoE": "2.0",
+        "Biden (D)": "49",
+        "Trump (R)": "40",
+        "Spread": "Biden +9"
+      },
+      {
+        "Poll": "FOX NewsFOX News",
+        "Date": "1/19 - 1/22",
+        "Sample": "1005 RV",
+        "MoE": "3.0",
+        "Biden (D)": "50",
+        "Trump (R)": "41",
+        "Spread": "Biden +9"
+      },
+      {
+        "Poll": "CNNCNN",
+        "Date": "1/16 - 1/19",
+        "Sample": "1051 RV",
+        "MoE": "3.6",
+        "Biden (D)": "53",
+        "Trump (R)": "44",
+        "Spread": "Biden +9"
+      },
+      {
+        "Poll": "IBD/TIPPIBD/TIPP",
+        "Date": "1/3 - 1/11",
+        "Sample": "846 RV",
+        "MoE": "3.3",
+        "Biden (D)": "48",
+        "Trump (R)": "46",
+        "Spread": "Biden +2"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "12/15 - 12/17",
+        "Sample": "1222 RV",
+        "MoE": "2.7",
+        "Biden (D)": "52",
+        "Trump (R)": "48",
+        "Spread": "Biden +4"
+      },
+      {
+        "Poll": "CNNCNN",
+        "Date": "12/12 - 12/15",
+        "Sample": "888 RV",
+        "MoE": "4.0",
+        "Biden (D)": "49",
+        "Trump (R)": "44",
+        "Spread": "Biden +5"
+      },
+      {
+        "Poll": "USA Today/SuffolkUSA Today",
+        "Date": "12/10 - 12/14",
+        "Sample": "1000 RV",
+        "MoE": "3.0",
+        "Biden (D)": "41",
+        "Trump (R)": "44",
+        "Spread": "Trump +3"
+      },
+      {
+        "Poll": "IBD/TIPPIBD/TIPP",
+        "Date": "12/5 - 12/14",
+        "Sample": "849 RV",
+        "MoE": "3.5",
+        "Biden (D)": "50",
+        "Trump (R)": "45",
+        "Spread": "Biden +5"
+      },
+      {
+        "Poll": "FOX NewsFOX News",
+        "Date": "12/8 - 12/11",
+        "Sample": "1000 RV",
+        "MoE": "3.0",
+        "Biden (D)": "48",
+        "Trump (R)": "41",
+        "Spread": "Biden +7"
+      },
+      {
+        "Poll": "QuinnipiacQuinnipiac",
+        "Date": "12/4 - 12/9",
+        "Sample": "1553 RV",
+        "MoE": "2.5",
+        "Biden (D)": "51",
+        "Trump (R)": "42",
+        "Spread": "Biden +9"
+      },
+      {
+        "Poll": "SurveyUSASUSA",
+        "Date": "11/20 - 11/21",
+        "Sample": "3850 RV",
+        "MoE": "1.7",
+        "Biden (D)": "52",
+        "Trump (R)": "39",
+        "Spread": "Biden +13"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "11/17 - 11/20",
+        "Sample": "1092 RV",
+        "MoE": "2.9",
+        "Biden (D)": "49",
+        "Trump (R)": "51",
+        "Spread": "Trump +2"
+      },
+      {
+        "Poll": "NBC News/Wall St. JrnlNBC/WSJ",
+        "Date": "10/27 - 10/30",
+        "Sample": "720 RV",
+        "MoE": "3.7",
+        "Biden (D)": "50",
+        "Trump (R)": "41",
+        "Spread": "Biden +9"
+      },
+      {
+        "Poll": "ABC News/Wash PostABC/WP",
+        "Date": "10/27 - 10/30",
+        "Sample": "876 RV",
+        "MoE": "4.0",
+        "Biden (D)": "56",
+        "Trump (R)": "39",
+        "Spread": "Biden +17"
+      },
+      {
+        "Poll": "FOX NewsFOX News",
+        "Date": "10/27 - 10/30",
+        "Sample": "1040 RV",
+        "MoE": "3.0",
+        "Biden (D)": "51",
+        "Trump (R)": "39",
+        "Spread": "Biden +12"
+      },
+      {
+        "Poll": "IBD/TIPPIBD/TIPP",
+        "Date": "10/24 - 10/31",
+        "Sample": "863 RV",
+        "MoE": "3.5",
+        "Biden (D)": "53",
+        "Trump (R)": "43",
+        "Spread": "Biden +10"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "10/18 - 10/21",
+        "Sample": "1000 RV",
+        "MoE": "3.0",
+        "Biden (D)": "51",
+        "Trump (R)": "49",
+        "Spread": "Biden +2"
+      },
+      {
+        "Poll": "CNNCNN",
+        "Date": "10/17 - 10/20",
+        "Sample": "892 RV",
+        "MoE": "4.0",
+        "Biden (D)": "53",
+        "Trump (R)": "43",
+        "Spread": "Biden +10"
+      },
+      {
+        "Poll": "SurveyUSASUSA",
+        "Date": "10/15 - 10/16",
+        "Sample": "3080 RV",
+        "MoE": "2.1",
+        "Biden (D)": "52",
+        "Trump (R)": "41",
+        "Spread": "Biden +11"
+      },
+      {
+        "Poll": "FOX NewsFOX News",
+        "Date": "10/6 - 10/8",
+        "Sample": "1003 RV",
+        "MoE": "3.0",
+        "Biden (D)": "50",
+        "Trump (R)": "40",
+        "Spread": "Biden +10"
+      },
+      {
+        "Poll": "QuinnipiacQuinnipiac",
+        "Date": "10/4 - 10/7",
+        "Sample": "1483 RV",
+        "MoE": "3.1",
+        "Biden (D)": "51",
+        "Trump (R)": "40",
+        "Spread": "Biden +11"
+      },
+      {
+        "Poll": "IBD/TIPPIBD/TIPP",
+        "Date": "9/26 - 10/3",
+        "Sample": "863 RV",
+        "MoE": "3.5",
+        "Biden (D)": "51",
+        "Trump (R)": "44",
+        "Spread": "Biden +7"
+      },
+      {
+        "Poll": "Rasmussen ReportsRasmussen",
+        "Date": "9/23 - 9/24",
+        "Sample": "1000 LV",
+        "MoE": "3.0",
+        "Biden (D)": "43",
+        "Trump (R)": "47",
+        "Spread": "Trump +4"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "9/21 - 9/23",
+        "Sample": "1019 RV",
+        "MoE": "3.0",
+        "Biden (D)": "50",
+        "Trump (R)": "49",
+        "Spread": "Biden +1"
+      },
+      {
+        "Poll": "FOX NewsFOX News",
+        "Date": "9/15 - 9/17",
+        "Sample": "1008 RV",
+        "MoE": "3.0",
+        "Biden (D)": "52",
+        "Trump (R)": "38",
+        "Spread": "Biden +14"
+      },
+      {
+        "Poll": "SurveyUSASUSA",
+        "Date": "9/13 - 9/16",
+        "Sample": "4520 RV",
+        "MoE": "1.6",
+        "Biden (D)": "49",
+        "Trump (R)": "41",
+        "Spread": "Biden +8"
+      },
+      {
+        "Poll": "ABC News/Wash PostABC/WP",
+        "Date": "9/2 - 9/5",
+        "Sample": "877 RV",
+        "MoE": "4.0",
+        "Biden (D)": "55",
+        "Trump (R)": "40",
+        "Spread": "Biden +15"
+      },
+      {
+        "Poll": "IBD/TIPPIBD/TIPP",
+        "Date": "8/22 - 8/30",
+        "Sample": "848 RV",
+        "MoE": "3.5",
+        "Biden (D)": "54",
+        "Trump (R)": "42",
+        "Spread": "Biden +12"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "8/24 - 8/26",
+        "Sample": "1458 RV",
+        "MoE": "2.5",
+        "Biden (D)": "54",
+        "Trump (R)": "46",
+        "Spread": "Biden +8"
+      },
+      {
+        "Poll": "QuinnipiacQuinnipiac",
+        "Date": "8/21 - 8/26",
+        "Sample": "1422 RV",
+        "MoE": "4.6",
+        "Biden (D)": "54",
+        "Trump (R)": "38",
+        "Spread": "Biden +16"
+      },
+      {
+        "Poll": "FOX NewsFOX News",
+        "Date": "8/11 - 8/13",
+        "Sample": "1013 RV",
+        "MoE": "3.0",
+        "Biden (D)": "50",
+        "Trump (R)": "38",
+        "Spread": "Biden +12"
+      },
+      {
+        "Poll": "SurveyUSASUSA",
+        "Date": "8/1 - 8/5",
+        "Sample": "5459 RV",
+        "MoE": "1.6",
+        "Biden (D)": "50",
+        "Trump (R)": "42",
+        "Spread": "Biden +8"
+      },
+      {
+        "Poll": "IBD/TIPPIBD/TIPP",
+        "Date": "7/25 - 8/1",
+        "Sample": "856 RV",
+        "MoE": "3.5",
+        "Biden (D)": "54",
+        "Trump (R)": "41",
+        "Spread": "Biden +13"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "7/27 - 7/29",
+        "Sample": "1233 RV",
+        "MoE": "2.7",
+        "Biden (D)": "51",
+        "Trump (R)": "49",
+        "Spread": "Biden +2"
+      },
+      {
+        "Poll": "FOX NewsFOX News",
+        "Date": "7/21 - 7/23",
+        "Sample": "1004 RV",
+        "MoE": "3.0",
+        "Biden (D)": "49",
+        "Trump (R)": "39",
+        "Spread": "Biden +10"
+      },
+      {
+        "Poll": "NBC News/Wall St. JrnlNBC/WSJ",
+        "Date": "7/7 - 7/9",
+        "Sample": "800 RV",
+        "MoE": "3.5",
+        "Biden (D)": "51",
+        "Trump (R)": "42",
+        "Spread": "Biden +9"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "7/6 - 7/8",
+        "Sample": "1100 RV",
+        "MoE": "2.9",
+        "Biden (D)": "53",
+        "Trump (R)": "47",
+        "Spread": "Biden +6"
+      },
+      {
+        "Poll": "ABC News/Wash PostABC/WP",
+        "Date": "6/28 - 7/1",
+        "Sample": "875 RV",
+        "MoE": "4.0",
+        "Biden (D)": "53",
+        "Trump (R)": "43",
+        "Spread": "Biden +10"
+      },
+      {
+        "Poll": "Rasmussen ReportsRasmussen",
+        "Date": "6/23 - 7/2",
+        "Sample": "4500 LV",
+        "MoE": "1.5",
+        "Biden (D)": "48",
+        "Trump (R)": "44",
+        "Spread": "Biden +4"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "6/21 - 6/24",
+        "Sample": "1096 RV",
+        "MoE": "2.9",
+        "Biden (D)": "55",
+        "Trump (R)": "45",
+        "Spread": "Biden +10"
+      },
+      {
+        "Poll": "FOX NewsFOX News",
+        "Date": "6/9 - 6/12",
+        "Sample": "1001 RV",
+        "MoE": "3.0",
+        "Biden (D)": "49",
+        "Trump (R)": "39",
+        "Spread": "Biden +10"
+      },
+      {
+        "Poll": "QuinnipiacQuinnipiac",
+        "Date": "6/6 - 6/10",
+        "Sample": "1214 RV",
+        "MoE": "3.5",
+        "Biden (D)": "53",
+        "Trump (R)": "40",
+        "Spread": "Biden +13"
+      },
+      {
+        "Poll": "FOX NewsFOX News",
+        "Date": "5/11 - 5/14",
+        "Sample": "1001 RV",
+        "MoE": "3.0",
+        "Biden (D)": "49",
+        "Trump (R)": "38",
+        "Spread": "Biden +11"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "5/10 - 5/13",
+        "Sample": "1006 RV",
+        "MoE": "3.0",
+        "Biden (D)": "54",
+        "Trump (R)": "46",
+        "Spread": "Biden +8"
+      },
+      {
+        "Poll": "CNNCNN",
+        "Date": "4/25 - 4/29",
+        "Sample": "470 RV",
+        "MoE": "5.5",
+        "Biden (D)": "51",
+        "Trump (R)": "45",
+        "Spread": "Biden +6"
+      },
+      {
+        "Poll": "The Hill/HarrisXThe Hill",
+        "Date": "4/25 - 4/26",
+        "Sample": "1000 RV",
+        "MoE": "3.1",
+        "Biden (D)": "43",
+        "Trump (R)": "37",
+        "Spread": "Biden +6"
+      },
+      {
+        "Poll": "Politico/Morning ConsultPolitico",
+        "Date": "4/19 - 4/21",
+        "Sample": "1992 RV",
+        "MoE": "2.0",
+        "Biden (D)": "42",
+        "Trump (R)": "34",
+        "Spread": "Biden +8"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "4/11 - 4/14",
+        "Sample": "914 RV",
+        "MoE": "3.2",
+        "Biden (D)": "53",
+        "Trump (R)": "47",
+        "Spread": "Biden +6"
+      },
+      {
+        "Poll": "PPP (D)PPP (D)",
+        "Date": "3/27 - 3/28",
+        "Sample": "846 RV",
+        "MoE": "3.4",
+        "Biden (D)": "53",
+        "Trump (R)": "40",
+        "Spread": "Biden +13"
+      },
+      {
+        "Poll": "Rasmussen ReportsRasmussen",
+        "Date": "3/17 - 3/21",
+        "Sample": "5000 LV",
+        "MoE": "1.5",
+        "Biden (D)": "49",
+        "Trump (R)": "44",
+        "Spread": "Biden +5"
+      },
+      {
+        "Poll": "FOX NewsFOX News",
+        "Date": "3/17 - 3/20",
+        "Sample": "1002 RV",
+        "MoE": "3.0",
+        "Biden (D)": "47",
+        "Trump (R)": "40",
+        "Spread": "Biden +7"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "3/17 - 3/18",
+        "Sample": "1153 RV",
+        "MoE": "2.8",
+        "Biden (D)": "55",
+        "Trump (R)": "45",
+        "Spread": "Biden +10"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "2/14 - 2/16",
+        "Sample": "1000 RV",
+        "MoE": "3.3",
+        "Biden (D)": "55",
+        "Trump (R)": "45",
+        "Spread": "Biden +10"
+      },
+      {
+        "Poll": "PPP (D)PPP (D)",
+        "Date": "1/19 - 1/21",
+        "Sample": "760 RV",
+        "MoE": "3.6",
+        "Biden (D)": "53",
+        "Trump (R)": "41",
+        "Spread": "Biden +12"
+      },
+      {
+        "Poll": "PPP (D)PPP (D)",
+        "Date": "6/8 - 6/10",
+        "Sample": "679 RV",
+        "MoE": "3.8",
+        "Biden (D)": "53",
+        "Trump (R)": "39",
+        "Spread": "Biden +14"
+      },
+      {
+        "Poll": "PPP (D)PPP (D)",
+        "Date": "3/23 - 3/25",
+        "Sample": "846 RV",
+        "MoE": "3.4",
+        "Biden (D)": "56",
+        "Trump (R)": "39",
+        "Spread": "Biden +17"
+      },
+      {
+        "Poll": "PPP (D)PPP (D)",
+        "Date": "2/9 - 2/11",
+        "Sample": "687 RV",
+        "MoE": "3.7",
+        "Biden (D)": "51",
+        "Trump (R)": "42",
+        "Spread": "Biden +9"
+      },
+      {
+        "Poll": "CNNCNN",
+        "Date": "1/14 - 1/18",
+        "Sample": "918 RV",
+        "MoE": "3.8",
+        "Biden (D)": "57",
+        "Trump (R)": "40",
+        "Spread": "Biden +17"
+      },
+      {
+        "Poll": "PPP (D)PPP (D)",
+        "Date": "12/11 - 12/12",
+        "Sample": "862 RV",
+        "MoE": "3.3",
+        "Biden (D)": "54",
+        "Trump (R)": "40",
+        "Spread": "Biden +14"
+      },
+      {
+        "Poll": "PPP (D)PPP (D)",
+        "Date": "10/27 - 10/29",
+        "Sample": "572 RV",
+        "MoE": "4.1",
+        "Biden (D)": "56",
+        "Trump (R)": "38",
+        "Spread": "Biden +18"
+      },
+      {
+        "Poll": "EmersonEmerson",
+        "Date": "10/12 - 10/14",
+        "Sample": "820 RV",
+        "MoE": "3.4",
+        "Biden (D)": "51",
+        "Trump (R)": "42",
+        "Spread": "Biden +9"
+      },
+      {
+        "Poll": "PPP (D)PPP (D)",
+        "Date": "9/22 - 9/25",
+        "Sample": "865 RV",
+        "MoE": "3.3",
+        "Biden (D)": "53",
+        "Trump (R)": "40",
+        "Spread": "Biden +13"
+      },
+      {
+        "Poll": "PPP (D)PPP (D)",
+        "Date": "8/18 - 8/21",
+        "Sample": "887 RV",
+        "MoE": "3.3",
+        "Biden (D)": "51",
+        "Trump (R)": "39",
+        "Spread": "Biden +12"
+      },
+      {
+        "Poll": "PPP (D)PPP (D)",
+        "Date": "7/14 - 7/17",
+        "Sample": "836 RV",
+        "MoE": "3.4",
+        "Biden (D)": "54",
+        "Trump (R)": "39",
+        "Spread": "Biden +15"
+      },
+      {
+        "Poll": "PPP (D)PPP (D)",
+        "Date": "6/9 - 6/11",
+        "Sample": "811 RV",
+        "MoE": "3.4",
+        "Biden (D)": "54",
+        "Trump (R)": "41",
+        "Spread": "Biden +13"
+      },
+      {
+        "Poll": "PPP (D)PPP (D)",
+        "Date": "5/12 - 5/14",
+        "Sample": "692 RV",
+        "MoE": "3.7",
+        "Biden (D)": "54",
+        "Trump (R)": "40",
+        "Spread": "Biden +14"
+      },
+      {
+        "Poll": "PPP (D)PPP (D)",
+        "Date": "4/17 - 4/18",
+        "Sample": "648 RV",
+        "MoE": "3.9",
+        "Biden (D)": "54",
+        "Trump (R)": "40",
+        "Spread": "Biden +14"
+      },
+      {
+        "Poll": "PPP (D)PPP (D)",
+        "Date": "3/27 - 3/28",
+        "Sample": "677 RV",
+        "MoE": "3.8",
+        "Biden (D)": "54",
+        "Trump (R)": "40",
+        "Spread": "Biden +14"
+      }
+    ]
+  }
+]

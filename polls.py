@@ -71,7 +71,7 @@ def get_rcp_averages(filename):
     template = j2_env.get_template("index.j2")
 
     # Build a pretty timestamp and render the template
-    updated = datetime.now().strftime("%H:%M UTC on %d %B %Y")
+    updated = datetime.utcnow().strftime("%H:%M UTC on %d %B %Y")
     j2_data = {"elections": elections, "updated": updated}
     html_text = template.render(data=j2_data)
 
