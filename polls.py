@@ -63,7 +63,7 @@ def get_rcp_averages(filename):
             race["text"] = f"{place}: {party} {spread} ({date})"
             race["color"] = COLOR_MAP[party]
 
-    # Print the final elections data for a quick visual check
+    # Print the final elections data for a quick visual check (optional)
     # print(json.dumps(elections, indent=2))
 
     # Setup the jinja2 templating environment and instantiate the template
@@ -92,7 +92,7 @@ def get_party(rcp_avg):
     # If found, return the party after the name
     for k in rcp_avg.keys():
         if k.startswith(winner):
-            return k.split(" ")[1].strip()
+            return k.split(" ")[-1].strip()
 
     # Party not found; use a static string instead
     return "(?)"

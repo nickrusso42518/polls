@@ -1,0 +1,156 @@
+{
+  "US President 2020": {
+    "US": {
+      "enable": true,
+      "url": "2020/president/us/general_election_trump_vs_biden-6247.html",
+      "text": "US: (D) Biden +8.8 (5/28-6/16)",
+      "color": "blue"
+    },
+    "AZ": {
+      "enable": true,
+      "url": "2020/president/az/arizona_trump_vs_biden-6807.html",
+      "text": "AZ: (D) Biden +4.0 (5/9-6/12)",
+      "color": "blue"
+    },
+    "FL": {
+      "enable": true,
+      "url": "2020/president/fl/florida_trump_vs_biden-6841.html",
+      "text": "FL: (D) Biden +6.2 (5/8-6/12)",
+      "color": "blue"
+    },
+    "GA": {
+      "enable": true,
+      "url": "2020/president/ga/georgia_trump_vs_biden-6974.html",
+      "text": "GA: (R) Trump +7.5 (12/19-3/2)",
+      "color": "red"
+    },
+    "IA": {
+      "enable": true,
+      "url": "2020/president/ia/iowa_trump_vs_biden-6787.html",
+      "text": "IA: (R) Trump +1.5 (4/30-6/10)",
+      "color": "red"
+    },
+    "MI": {
+      "enable": true,
+      "url": "2020/president/mi/michigan_trump_vs_biden-6761.html",
+      "text": "MI: (D) Biden +10.3 (5/31-6/12)",
+      "color": "blue"
+    },
+    "MN": {
+      "enable": true,
+      "url": "2020/president/mn/minnesota_trump_vs_biden-6966.html",
+      "text": "MN: Did not find RCP average",
+      "color": "black"
+    },
+    "NC": {
+      "enable": true,
+      "url": "2020/president/nc/north_carolina_trump_vs_biden-6744.html",
+      "text": "NC: (R) Trump +0.6 (5/7-6/17)",
+      "color": "red"
+    },
+    "NH": {
+      "enable": true,
+      "url": "2020/president/nh/new_hampshire_trump_vs_biden-6779.html",
+      "text": "NH: (D) Biden +4.3 (1/20-6/16)",
+      "color": "blue"
+    },
+    "NV": {
+      "enable": true,
+      "url": "2020/president/nv/nevada_trump_vs_biden-6867.html",
+      "text": "NV: (D) Biden +4.0 (8/14-1/8)",
+      "color": "blue"
+    },
+    "OH": {
+      "enable": true,
+      "url": "2020/president/oh/ohio_trump_vs_biden-6765.html",
+      "text": "OH: (R) Trump +0.5 (5/8-6/2)",
+      "color": "red"
+    },
+    "PA": {
+      "enable": true,
+      "url": "2020/president/pa/pennsylvania_trump_vs_biden-6861.html",
+      "text": "PA: (D) Biden +5.6 (4/18-6/12)",
+      "color": "blue"
+    },
+    "TX": {
+      "enable": true,
+      "url": "2020/president/tx/texas_trump_vs_biden-6818.html",
+      "text": "TX: (R) Trump +1.5 (4/18-6/1)",
+      "color": "red"
+    },
+    "VA": {
+      "enable": true,
+      "url": "2020/president/va/virginia_trump_vs_biden-6988.html",
+      "text": "VA: (D) Biden +9.7 (2/25-5/17)",
+      "color": "blue"
+    },
+    "WI": {
+      "enable": true,
+      "url": "2020/president/wi/wisconsin_trump_vs_biden-6849.html",
+      "text": "WI: (D) Biden +5.4 (5/3-6/12)",
+      "color": "blue"
+    }
+  },
+  "US Senate 2020": {
+    "AZ": {
+      "enable": true,
+      "url": "2020/senate/az/arizona_senate_mcsally_vs_kelly-6801.html",
+      "text": "AZ: (D) Kelly +9.8 (3/2-6/2)",
+      "color": "blue"
+    },
+    "CO": {
+      "enable": true,
+      "url": "2020/senate/co/colorado_senate_gardner_vs_hickenlooper-6945.html",
+      "text": "CO: Did not find RCP average",
+      "color": "black"
+    },
+    "ME": {
+      "enable": true,
+      "url": "2020/senate/me/maine_senate_collins_vs_gideon-6928.html",
+      "text": "ME: (D) Gideon +2.5 (2/10-3/3)",
+      "color": "blue"
+    },
+    "MI": {
+      "enable": true,
+      "url": "2020/senate/mi/michigan_senate_james_vs_peters-6964.html",
+      "text": "MI: (D) Peters +9.5 (5/11-6/15)",
+      "color": "blue"
+    },
+    "MT": {
+      "enable": false,
+      "url": "2020/senate/mt/montana_senate_daines_vs_bullock-7063.html"
+    },
+    "NC": {
+      "enable": true,
+      "url": "2020/senate/nc/north_carolina_senate_tillis_vs_cunningham-6908.html",
+      "text": "NC: (?) Tie (4/23-6/17)",
+      "color": "black"
+    }
+  },
+  "Other Polls": {
+    "Presidential approval": {
+      "enable": true,
+      "url": "other/president_trump_job_approval-6179.html",
+      "text": "Presidential approval: (?) -12.1 (6/2-6/18)",
+      "color": "black"
+    },
+    "Congressional approval": {
+      "enable": true,
+      "url": "other/congressional_job_approval-903.html",
+      "text": "Congressional approval: (?) -41.3 (5/1-6/16)",
+      "color": "black"
+    },
+    "Generic Congressional": {
+      "enable": true,
+      "url": "other/2020_generic_congressional_vote-6722.html",
+      "text": "Generic Congressional: (D) Democrats +8.5 (5/2-6/16)",
+      "color": "blue"
+    },
+    "Direction of country": {
+      "enable": true,
+      "url": "other/direction_of_country-902.html",
+      "text": "Direction of country: (?) -41.2 (5/13-6/16)",
+      "color": "black"
+    }
+  }
+}
