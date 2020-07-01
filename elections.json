@@ -70,6 +70,14 @@
       "enable": true,
       "url": "2020/senate/co/colorado_senate_gardner_vs_hickenlooper-6945.html"
     },
+    "GA": {
+      "enable": true,
+      "url": "2020/senate/ga/georgia_senate_perdue_vs_ossoff-7067.html"
+    },
+    "IA": {
+      "enable": true,
+      "url": "2020/senate/ia/iowa_senate_ernst_vs_greenfield-7072.html"
+    },
     "ME": {
       "enable": true,
       "url": "2020/senate/me/maine_senate_collins_vs_gideon-6928.html"
