@@ -3,12 +3,17 @@
 <head>
   <title>RCP Polls</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <style>
+    a {color: inherit;}
+    li {margin: 4px 0;}
+  </style>
 </head>
 <body>
   <h1>RealClearPolitics Polling Summary</h1>
   <p>
     This minimalist project displays recent poll averages from
     <a href="https://www.realclearpolitics.com">RCP</a> for key races.
+    Click any race for details.
   </p>
   <p>
     No adjustments, analysis, or commentary. Don't believe me? See the
@@ -27,7 +32,8 @@
   <ul>
 {% for race in election.values() %}
 {% if race["enable"] %}
-    <li style="color:{{ race['color'] }};">{{ race["text"] }}</li>
+{% set race_url = data["base_url"] ~ race["url"] -%}
+  <li style="color:{{ race['color'] }};"><a href="{{ race_url }}">{{ race["text"] }}</a></li>
 {% endif %}
 {% endfor %}
   </ul>

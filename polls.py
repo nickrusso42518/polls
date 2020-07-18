@@ -72,7 +72,7 @@ def get_rcp_averages(filename):
 
     # Build a pretty timestamp and render the template
     updated = datetime.utcnow().strftime("%H:%M UTC on %d %B %Y")
-    j2_data = {"elections": elections, "updated": updated}
+    j2_data = {"elections": elections, "updated": updated, "base_url": base_url}
     html_text = template.render(data=j2_data)
 
     # Return the HTML text
