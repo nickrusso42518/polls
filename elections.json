@@ -36,6 +36,10 @@
       "enable": true,
       "url": "2020/president/nh/new_hampshire_trump_vs_biden-6779.html"
     },
+    "NM": {
+      "enable": true,
+      "url": "2020/president/nm/new_mexico_trump_vs_biden-6993.html"
+    },
     "NV": {
       "enable": true,
       "url": "2020/president/nv/nevada_trump_vs_biden-6867.html"
@@ -62,6 +66,10 @@
     }
   },
   "US Senate 2020": {
+    "AL": {
+      "enable": true,
+      "url": "2020/senate/al/alabama_senate_tuberville_vs_jones-7015.html"
+    },
     "AZ": {
       "enable": true,
       "url": "2020/senate/az/arizona_senate_mcsally_vs_kelly-6801.html"
@@ -87,7 +95,7 @@
       "url": "2020/senate/mi/michigan_senate_james_vs_peters-6964.html"
     },
     "MT": {
-      "enable": false,
+      "enable": true,
       "url": "2020/senate/mt/montana_senate_daines_vs_bullock-7063.html"
     },
     "NC": {
