@@ -44,8 +44,17 @@ def get_rcp_averages(filename):
             if not race["enable"]:
                 continue
 
-            # Get the poll data and extract the first element
+            # Get the poll data by combining the base URL with a the race URL
             polls = get_poll_data(poll=base_url + race["url"])
+
+            # Sometimes RCP removes polls after they've been published.
+            # If no poll data is returned, so display a sensible message
+            if len(polls[0]["data"]) == 0:
+                race["text"] = f"{place}: No polls conducted"
+                race["color"] = "black"
+                continue
+
+            # There are polls; extract the first element
             rcp_avg = polls[0]["data"][0]
 
             # The first element should always be the RCP average. If it isn't,
