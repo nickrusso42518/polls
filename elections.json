@@ -8,6 +8,10 @@
       "enable": true,
       "url": "2020/president/az/arizona_trump_vs_biden-6807.html"
     },
+    "CO": {
+      "enable": true,
+      "url": "2020/president/co/colorado_trump_vs_biden-6940.html"
+    },
     "FL": {
       "enable": true,
       "url": "2020/president/fl/florida_trump_vs_biden-6841.html"
@@ -69,6 +73,10 @@
     "AL": {
       "enable": true,
       "url": "2020/senate/al/alabama_senate_tuberville_vs_jones-7015.html"
+    },
+    "AK": {
+      "enable": true,
+      "url": "2020/senate/ak/alaska_senate_sullivan_vs_gross-7220.html"
     },
     "AZ": {
       "enable": true,
