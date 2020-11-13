@@ -1,114 +1,12 @@
 {
-  "US President 2020": {
-    "US": {
+  "US Senate Runoffs 2021": {
+    "GA Regular": {
       "enable": true,
-      "url": "2020/president/us/general_election_trump_vs_biden-6247.html"
+      "url": "2020/senate/ga/georgia_senate_runoff_election_perdue_vs_ossoff-7319.html"
     },
-    "AZ": {
+    "GA Special": {
       "enable": true,
-      "url": "2020/president/az/arizona_trump_vs_biden-6807.html"
-    },
-    "CO": {
-      "enable": true,
-      "url": "2020/president/co/colorado_trump_vs_biden-6940.html"
-    },
-    "FL": {
-      "enable": true,
-      "url": "2020/president/fl/florida_trump_vs_biden-6841.html"
-    },
-    "GA": {
-      "enable": true,
-      "url": "2020/president/ga/georgia_trump_vs_biden-6974.html"
-    },
-    "IA": {
-      "enable": true,
-      "url": "2020/president/ia/iowa_trump_vs_biden-6787.html"
-    },
-    "MI": {
-      "enable": true,
-      "url": "2020/president/mi/michigan_trump_vs_biden-6761.html"
-    },
-    "MN": {
-      "enable": true,
-      "url": "2020/president/mn/minnesota_trump_vs_biden-6966.html"
-    },
-    "NC": {
-      "enable": true,
-      "url": "2020/president/nc/north_carolina_trump_vs_biden-6744.html"
-    },
-    "NH": {
-      "enable": true,
-      "url": "2020/president/nh/new_hampshire_trump_vs_biden-6779.html"
-    },
-    "NM": {
-      "enable": true,
-      "url": "2020/president/nm/new_mexico_trump_vs_biden-6993.html"
-    },
-    "NV": {
-      "enable": true,
-      "url": "2020/president/nv/nevada_trump_vs_biden-6867.html"
-    },
-    "OH": {
-      "enable": true,
-      "url": "2020/president/oh/ohio_trump_vs_biden-6765.html"
-    },
-    "PA": {
-      "enable": true,
-      "url": "2020/president/pa/pennsylvania_trump_vs_biden-6861.html"
-    },
-    "TX": {
-      "enable": true,
-      "url": "2020/president/tx/texas_trump_vs_biden-6818.html"
-    },
-    "VA": {
-      "enable": true,
-      "url": "2020/president/va/virginia_trump_vs_biden-6988.html"
-    },
-    "WI": {
-      "enable": true,
-      "url": "2020/president/wi/wisconsin_trump_vs_biden-6849.html"
-    }
-  },
-  "US Senate 2020": {
-    "AL": {
-      "enable": true,
-      "url": "2020/senate/al/alabama_senate_tuberville_vs_jones-7015.html"
-    },
-    "AK": {
-      "enable": true,
-      "url": "2020/senate/ak/alaska_senate_sullivan_vs_gross-7220.html"
-    },
-    "AZ": {
-      "enable": true,
-      "url": "2020/senate/az/arizona_senate_mcsally_vs_kelly-6801.html"
-    },
-    "CO": {
-      "enable": true,
-      "url": "2020/senate/co/colorado_senate_gardner_vs_hickenlooper-6945.html"
-    },
-    "GA": {
-      "enable": true,
-      "url": "2020/senate/ga/georgia_senate_perdue_vs_ossoff-7067.html"
-    },
-    "IA": {
-      "enable": true,
-      "url": "2020/senate/ia/iowa_senate_ernst_vs_greenfield-7072.html"
-    },
-    "ME": {
-      "enable": true,
-      "url": "2020/senate/me/maine_senate_collins_vs_gideon-6928.html"
-    },
-    "MI": {
-      "enable": true,
-      "url": "2020/senate/mi/michigan_senate_james_vs_peters-6964.html"
-    },
-    "MT": {
-      "enable": true,
-      "url": "2020/senate/mt/montana_senate_daines_vs_bullock-7063.html"
-    },
-    "NC": {
-      "enable": true,
-      "url": "2020/senate/nc/north_carolina_senate_tillis_vs_cunningham-6908.html"
+      "url": "2020/senate/ga/georgia_senate_special_election_runoff_loeffler_vs_warnock-7318.html"
     }
   },
   "Other Polls": {
@@ -119,10 +17,6 @@
     "Congressional approval": {
       "enable": true,
       "url": "other/congressional_job_approval-903.html"
-    },
-    "Generic Congressional": {
-      "enable": true,
-      "url": "other/2020_generic_congressional_vote-6722.html"
     },
     "Direction of country": {
       "enable": true,
