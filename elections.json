@@ -1,18 +1,8 @@
 {
-  "US Senate Runoffs 2021": {
-    "GA Regular": {
-      "enable": true,
-      "url": "2020/senate/ga/georgia_senate_runoff_election_perdue_vs_ossoff-7319.html"
-    },
-    "GA Special": {
-      "enable": true,
-      "url": "2020/senate/ga/georgia_senate_special_election_runoff_loeffler_vs_warnock-7318.html"
-    }
-  },
   "Other Polls": {
     "Presidential approval": {
       "enable": true,
-      "url": "other/president_trump_job_approval-6179.html"
+      "url": "other/president-biden-job-approval-7320.html"
     },
     "Congressional approval": {
       "enable": true,
