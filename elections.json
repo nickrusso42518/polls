@@ -1,4 +1,10 @@
 {
+  "US 2022 Midterms": {
+    "Generic Congressional": {
+      "enable": true,
+      "url": "other/2022-generic-congressional-vote-7361.html"
+    }
+  },
   "Other Polls": {
     "Presidential approval": {
       "enable": true,
