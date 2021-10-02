@@ -1,4 +1,14 @@
 {
+  "US 2021 Gubernatorials": {
+    "New Jersey": {
+      "enable": true,
+      "url": "2021/governor/nj/new_jersey_governor_ciattarelli_vs_murphy-7372.html"
+    },
+    "Virginia": {
+      "enable": true,
+      "url": "2021/governor/va/virginia_governor_youngkin_vs_mcauliffe-7373.html"
+    }
+  },
   "US 2022 Midterms": {
     "Generic Congressional": {
       "enable": true,
